@@ -1,0 +1,5 @@
+name: 'Batch API'
+type: module
+description: 'Create a batch operation within a form'
+package: Custom
+core_version_requirement: ^10
